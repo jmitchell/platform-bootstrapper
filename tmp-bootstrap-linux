@@ -1,0 +1,2 @@
+# linux version
+linux/amd64/bootstrap "$@"
